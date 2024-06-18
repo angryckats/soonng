@@ -1,0 +1,25 @@
+.heading{
+font-size:23px;
+width:100%;
+margin:0px;
+}
+
+.note{
+font-size:15px;
+color:black;
+}
+
+.body{
+background-size:cover;
+}
+
+.muusic{
+background-image:url("cartoon-style-musical-notes-background_23-2151056769.avif");
+background-position:center;
+background-size: cover;
+
+}
+
+.notes{
+font-size: 40px;
+}
